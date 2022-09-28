@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mohamed-hesham99
-- 👀 I’m interested in Web Applications and Cloud Engineering
-- 🌱 I’m currently learning AWS and GCP
-- 💞️ I’m looking to collaborate on Web Cloud Applications
+- 👀 I’m interested in DevOps Engineering
+- 🌱 I’m currently learning AWS and DevOps tools
+- 💞️ I’m looking to collaborate on Devops related projects
 - 📫 You can reach me on Mohamedhesham2105@gmail.com
 
 <!---
